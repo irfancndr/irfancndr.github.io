@@ -1,14 +1,57 @@
-- title: Boyfriend I
-  time: Jan 2010  - Aug 2010
-  company: You Don't Care High School
-  info: Dated for 8 months in high school.
+- title: Data Scientist
+  time: Jan 2018  - Dec 2019
+  company: PT. Cybertrend Intrabuana
+  info: 
+        - Applying data science to solve business problems. 
+        - Provide end to end solution for give the best machine learning approach 
+        - Handling POC (Proof of Concept) for Data Science Projects.
+        - Stacks =  Python, R , Tableau, SPSS Modeler, Pentaho, Linux, Airflow, SQL , GCP
+        - Projects =
+          1. Big Data Satu Pama (Hauling Optimizer) - Pama Persada
+             Joint development to create and improve the various machine learning models for 6 use-cases to solve business problems. This project passed the Minimum Valuable Products criteria. This is an end-to-end project using the CRISP-DM. This project proved to improve  5% of hauling performance.
+          2. Bimasakti (Forecasting Products SKU's) - Unilever Indonesia
+             Build a data flow and develop machine learning models for forecasting all SKUs products. This project cut the working time by more than 50%, so the reporting process was more efficient in determining how much quantity to distribute.
+          3. KPI Dashboard - Bank BTN
+             Build a core metrics dashboard for all KPI in Bank BTN with tableau, this dashboard help stakeholders to get the report fast and accurate.
+          4. KPI Dashboard - Angkasa Pura 1
+             Build a core metrics dashboard for all KPI in Angkasa Pura 1 with tableau, this dashboard help stakeholders to get the report fast and accurate.
 
-- title: Boyfriend II
-  time: Sept 2012  - Dec 2012
-  company: You Don't Care High School
-  info: Dated for less than three months in high school.
+- title: Data Scientist
+  time: Dec 2019 - Jun 2020
+  company: BeliMobilGue.co.id
+  info: 
+        - Applying data science to solve business problems.
+        - Worked on End to End data creation and maintenance
+        - Designed, developed, and maintained BI data warehousing and visualization.
+        - Coordinated with business analysts and stakeholders to develop both business requirements and to identify data sources and specification documents to perform ad hoc analysis.
+        - Conducted automation reports and maintained functional dashboards.
+        - Stacks = Python, R , GCP, Tableau, Power BI, Google Sheets, Airflow, BigQuery, Git
+        - Projects =
+          1. KPI Dashboard
+             Since the company is growing, i am responsible for moving all reports from Google Sheets and Google Data Studio into the proper data warehousing and Tableau dashboard for visualizations. Creating Dashboard with charts that are easy for understand.
+          2. Car Pricing 
+             Work together with other data scientist to create a new system for our car pricing, we creating the new formula for pricing using exponential approach.
 
-- title: Fake Boyfriend
-  time: Jan 2015 - Mar 2018
-  company: You Don't Care University
-  info: Was known as fake boyfriend throughout the period.
+- title: Data Scientist
+  time: Jul2020 - Present
+  company: OLX Indoenesia
+  info: 
+        - Applying data science to solve business problems.
+        - Worked on End to End data creation and maintenance
+        - Designed, developed, and maintained BI data warehousing and visualization.
+        - Coordinated with business analysts and stakeholders to develop both business requirements and to identify data sources and specification documents to perform ad hoc analysis.
+        - Conducted automation reports and maintained functional dashboards.
+        - Stacks = Python, R , GCP, AWS, Redshift, Tableau, Power BI, Google Sheets, Airflow, Jenkins, BigQuery, PostgreSQL, Git
+        - Projects = 
+          1. Ctx KPI Dashboard
+             I'm responsible to create the 6 Main Dashboard used by CEO and other stakeholders. Integrating many data sources using ETL to create data warehouse and be used in Tableau, making it easier to get an accurate and fast report.
+          2. Competitor Analysis
+             Work with the Global team to scrape competitor data and then create an ETL to normalize the data into internal databases. With the  Dashboard as the output, we can see OLX Indonesia's market share and growth compared to all our competitors from time to time per province and per category, so we can maintain our business.
+          3. Data Warehouse Migration
+             Conducting the Migration of OLX Autos  Indonesia data warehouse and visualization from Google Cloud Platform to Amazon Web Services in order to be integrated with OLX Global. Collaborate with data engineer, infrastructure team, and analyst from OLX Group India, Poland, and Berlin to gather user requirements and access.
+          4. Dealer Analysis
+             Creating the integration between OLX indonesia dealer data and Belimobilgue dealer data and combine the metrics between OLX Indonesia and belimobilgue in visualization, so stakeholders from several division can get the insights and recommendation faster.
+          5. Lead Prioritization
+             I created an optimization with machine learning to get more leads based on user willingness. The model was able to get 65% of the total booking by only contacting 50% of the leads.
+          6. Object Character Recognition for Fraud Prevention
+             I created a new channel to detect fraudsters with OCR tools. Previously the fraud team do some manual ways to catch this kind of user, with help from the OCR tools we can catch the fraudster faster and reduce the time process by 200%.
