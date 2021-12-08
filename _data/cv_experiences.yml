@@ -20,23 +20,23 @@
   time: Dec 2019 - Jun 2020
   company: BeliMobilGue.co.id
   info: 
-        - Applying data science to solve business problems.
-        - Worked on End to End data creation and maintenance
-        - Designed, developed, and maintained BI data warehousing and visualization.
-        - Coordinated with business analysts and stakeholders to develop both business requirements and to identify data sources and specification documents to perform ad hoc analysis.
-        - Conducted automation reports and maintained functional dashboards.
-        - Stacks = Python, R , GCP, Tableau, Power BI, Google Sheets, Airflow, BigQuery, Git
-        - Projects =
-          1. KPI Dashboard
-             Since the company is growing, i am responsible for moving all reports from Google Sheets and Google Data Studio into the proper data warehousing and Tableau dashboard for visualizations. Creating Dashboard with charts that are easy for understand.
-          2. Car Pricing 
-             Work together with other data scientist to create a new system for our car pricing, we creating the new formula for pricing using exponential approach.
+        &#8594; Applying data science to solve business problems. <br>
+        &#8594; Worked on End to End data creation and maintenance. <br>
+        &#8594; Designed, developed, and maintained BI data warehousing and visualization. <br>
+        &#8594; Coordinated with business analysts and stakeholders to develop both business requirements and to identify data sources and specification documents to perform ad hoc analysis. <br>
+        &#8594; Conducted automation reports and maintained functional dashboards. <br>
+        &#8594; Stacks = Python, R , GCP, Tableau, Power BI, Google Sheets, Airflow, BigQuery, Git <br>
+        &#8594; Projects = <br>
+          1. KPI Dashboard <br>
+             Since the company is growing, i am responsible for moving all reports from Google Sheets and Google Data Studio into the proper data warehousing and Tableau dashboard for visualizations. Creating Dashboard with charts that are easy for understand. <br>
+          2. Car Pricing  <br>
+             Work together with other data scientist to create a new system for our car pricing, we creating the new formula for pricing using exponential approach. <br>
 
 - title: Data Scientist
   time: Jul2020 - Present
   company: OLX Indoenesia
   info: 
-        - Applying data science to solve business problems.
+        - Applying data science to solve business problems.   
         - Worked on End to End data creation and maintenance
         - Designed, developed, and maintained BI data warehousing and visualization.
         - Coordinated with business analysts and stakeholders to develop both business requirements and to identify data sources and specification documents to perform ad hoc analysis.
