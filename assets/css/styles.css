@@ -60,8 +60,7 @@ p {
   line-height: 1.5;
 }
 .wrapper {
-  /* CHANGE 12-9-2021 */
-  background: #6B8E23;
+  background: #42A8C0;
   max-width: 1080px;
   margin: 0 auto;
   position: relative;
@@ -70,7 +69,7 @@ p {
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 .sidebar-wrapper {
-  background: #6B8E23;
+  background: #42A8C0;
   position: absolute;
   right: 0;
   width: 300px;

@@ -49,7 +49,7 @@
         &#9679; Projects : <br>
              <br>
           1. Ctx KPI Dashboard <br>
-             I'm responsible to create the 6 Main Dashboard used by CEO and other stakeholders. Integrating many data sources using ETL to create data warehouse and be used in Tableau, making it easier to get an accurate and fast report. <br>
+             Responsible to create the 6 Main Dashboard used by CEO and other stakeholders. Integrating many data sources using ETL to create data warehouse and be used in Tableau, making it easier to get an accurate and fast report. <br>
              <br>
           2. Competitor Analysis <br>
              Work with the Global team to scrape competitor data and then create an ETL to normalize the data into internal databases. With the  Dashboard as the output, we can see OLX Indonesia's market share and growth compared to all our competitors from time to time per province and per category, so we can maintain our business.<br>
@@ -58,10 +58,10 @@
              Conducting the Migration of OLX Autos  Indonesia data warehouse and visualization from Google Cloud Platform to Amazon Web Services in order to be integrated with OLX Global. Collaborate with data engineer, infrastructure team, and analyst from OLX Group India, Poland, and Berlin to gather user requirements and access.<br>
              <br>
           4. Dealer Analysis <br>
-             Creating the integration between OLX indonesia dealer data and Belimobilgue dealer data and combine the metrics between OLX Indonesia and belimobilgue in visualization, so stakeholders from several division can get the insights and recommendation faster.<br>
+             Create the integration between OLX indonesia dealer data and Belimobilgue dealer data and combine the metrics between OLX Indonesia and belimobilgue in visualization, so stakeholders from several division can get the insights and recommendation faster.<br>
              <br>
           5. Lead Prioritization <br>
-             I created an optimization with machine learning to get more leads based on user willingness. The model was able to get 65% of the total booking by only contacting 50% of the leads.<br>
+             Create an optimization with machine learning to get more leads based on user willingness. The model was able to get 65% of the total booking by only contacting 50% of the leads.<br>
              <br>
           6. Object Character Recognition for Fraud Prevention <br>
-             I created a new channel to detect fraudsters with OCR tools. Previously the fraud team do some manual ways to catch this kind of user, with help from the OCR tools we can catch the fraudster faster and reduce the time process by 200%.<br>"
+             Create a new channel to detect fraudsters with OCR tools. Previously the fraud team do some manual ways to catch this kind of user, with help from the OCR tools we can catch the fraudster faster and reduce the time process by 200%.<br>"
