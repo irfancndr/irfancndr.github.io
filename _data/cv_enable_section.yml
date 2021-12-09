@@ -3,7 +3,7 @@ courses: true
 experiences: true
 group_projects: false
 individual_projects: false
-interests: false
+interests: true
 languages: true
 profiles: true
 skills: true
