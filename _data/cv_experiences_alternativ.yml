@@ -1,0 +1,64 @@
+- title: Data Scientist Consultant
+  time: Jan 2018 - Dec 2019
+  company: PT. Cybertrend Intrabuana
+  info: "&#9679; Applying data science to solve business problems. <br>
+        &#9679; Provide end to end solution for give the best machine learning approach. <br>
+        &#9679; Handling POC (Proof of Concept) for Data Science Projects. <br>
+        &#9679; Stacks :  Python, R , Tableau, SPSS Modeler, Pentaho, Linux, Airflow, SQL , GCP. <br>
+        &#9679; Projects : <br>
+             <br>
+          <b>1. Big Data Satu Pama (Hauling Optimizer) - Pama Persada <br></b>
+             Joint development to create and improve the various machine learning models for 6 use-cases to solve business problems. This project passed the Minimum Valuable Products criteria. This is an end-to-end project using the CRISP-DM. This project proved to improve  5% of hauling performance. <br>
+             <br>
+          <b>2. Bimasakti (Forecasting Products SKU's) - Unilever Indonesia <br></b>
+             Build a data flow and develop machine learning models for forecasting all SKUs products. This project cut the working time by more than 50%, so the reporting process was more efficient in determining how much quantity to distribute. <br>
+             <br>
+          <b>3. KPI Dashboard - Bank BTN & Angkasa Pura 1<br></b>
+             Build a core metrics dashboard for all KPI in Client's Company with tableau, this dashboard help stakeholders to get the report fast and accurate. <br>"
+          
+- title: Data Scientist
+  time: Dec 2019 - Jun 2020
+  company: BeliMobilGue.co.id
+  info: "&#9679; Applying data science to solve business problems. <br>
+        &#9679; Worked on End to End data creation and maintenance. <br>
+        &#9679; Designed, developed, and maintained BI data warehousing and visualization. <br>
+        &#9679; Perform ad hoc analysis. <br>
+        &#9679; Conducted automation reports and maintained functional dashboards. <br>
+        &#9679; Stacks : Python, R , GCP, Tableau, Power BI, Google Sheets, Airflow, BigQuery, Git <br>
+        &#9679; Projects : <br>
+             <br>
+          <b>1. KPI Dashboard <br></b>
+             Moving all reports from Google Sheets and Google Data Studio into the proper data warehousing and Tableau dashboard for visualizations. Creating Dashboard with charts that are easy for understand. <br>
+             <br>
+          <b>2. Car Pricing  <br></b>
+             Work together with other data scientist to create a new system for our car pricing, we creating the new formula for pricing using exponential approach. <br>"
+          
+
+- title: Data Scientist
+  time: Jul2020 - Present
+  company: OLX Indonesia
+  info: "&#9679; Applying data science to solve business problems.  <br>
+        &#9679; Worked on End to End data creation and maintenance <br>
+        &#9679; Designed, developed, and maintained BI data warehousing and visualization. <br> 
+        &#9679; Perform ad hoc analysis. <br>
+        &#9679; Conducted automation reports and maintained functional dashboards. <br>
+        &#9679; Stacks : Python, R , GCP, AWS, Redshift, Tableau, Power BI, Google Sheets, Airflow, Jenkins, BigQuery, PostgreSQL, Git <br>
+        &#9679; Projects : <br>
+             <br>
+          <b>1. Ctx KPI Dashboard <br></b>
+             Integrating many data sources using ETL to create data warehouse and be used in Tableau, making it easier to get an accurate and fast report. <br>
+             <br>
+          <b>2. Competitor Analysis <br></b>
+             Work with the Global team to scrape competitor data and then create an ETL to normalize the data into internal databases. Using tableau to visualize the analysis.<br>
+             <br>
+          <b>3. Data Warehouse Migration <br></b>
+             Conducting the Migration of OLX Autos  Indonesia data warehouse and visualization from Google Cloud Platform to Amazon Web Services in order to be integrated with OLX Global. Collaborate with data engineer, infrastructure team, and analyst from OLX Group India, Poland, and Berlin to gather user requirements and access.<br>
+             <br>
+          <b>4. Dealer Analysis <br></b>
+             Create the integration between OLX indonesia dealer data and Belimobilgue dealer data and combine the metrics between OLX Indonesia and belimobilgue in visualization, so stakeholders from several division can get the insights and recommendation faster.<br>
+             <br>
+          <b>5. Lead Prioritization <br></b>
+             Create an optimization with machine learning to get more leads based on user willingness. The model was able to get 65% of the total booking by only contacting 50% of the leads.<br>
+             <br>
+          <b>6. Object Character Recognition for Fraud Prevention <br></b>
+             Create a new channel to detect fraudsters with OCR tools. Previously the fraud team do some manual ways to catch this kind of user, with help from the OCR tools we can catch the fraudster faster and reduce the time process by 200%.<br>"

@@ -19,46 +19,20 @@
 - title: Data Scientist
   time: Dec 2019 - Jun 2020
   company: BeliMobilGue.co.id
-  info: "&#9679; Applying data science to solve business problems. <br>
-        &#9679; Worked on End to End data creation and maintenance. <br>
-        &#9679; Designed, developed, and maintained BI data warehousing and visualization. <br>
-        &#9679; Perform ad hoc analysis. <br>
-        &#9679; Conducted automation reports and maintained functional dashboards. <br>
-        &#9679; Stacks : Python, R , GCP, Tableau, Power BI, Google Sheets, Airflow, BigQuery, Git <br>
-        &#9679; Projects : <br>
-             <br>
-          <b>1. KPI Dashboard <br></b>
-             Moving all reports from Google Sheets and Google Data Studio into the proper data warehousing and Tableau dashboard for visualizations. Creating Dashboard with charts that are easy for understand. <br>
-             <br>
-          <b>2. Car Pricing  <br></b>
-             Work together with other data scientist to create a new system for our car pricing, we creating the new formula for pricing using exponential approach. <br>"
+  info: "&#9679; Utilized analytical and technical expertise to provide insights to supports business improvements. <br>
+        &#9679; Moving all reports from Google Sheets and Google Data studio into the proper data warehousing and Using tableau for visualizations <br>
+        &#9679; Collaborated with other data scientist to Develop algorithm for dynamic car pricing. Help company to control the profit and increasing auctioneer productivity <br>
+        &#9679; Conducted dynamic e-mail automation report to external and internal stakeholders. <br>
+        &#9679; Stacks : Python, R , GCP, Tableau, Power BI, Google Sheets, Airflow, BigQuery, Git <br>"
           
-
 - title: Data Scientist
   time: Jul2020 - Present
   company: OLX Indonesia
-  info: "&#9679; Applying data science to solve business problems.  <br>
-        &#9679; Worked on End to End data creation and maintenance <br>
-        &#9679; Designed, developed, and maintained BI data warehousing and visualization. <br> 
-        &#9679; Perform ad hoc analysis. <br>
-        &#9679; Conducted automation reports and maintained functional dashboards. <br>
-        &#9679; Stacks : Python, R , GCP, AWS, Redshift, Tableau, Power BI, Google Sheets, Airflow, Jenkins, BigQuery, PostgreSQL, Git <br>
-        &#9679; Projects : <br>
-             <br>
-          <b>1. Ctx KPI Dashboard <br></b>
-             Integrating many data sources using ETL to create data warehouse and be used in Tableau, making it easier to get an accurate and fast report. <br>
-             <br>
-          <b>2. Competitor Analysis <br></b>
-             Work with the Global team to scrape competitor data and then create an ETL to normalize the data into internal databases. Using tableau to visualize the analysis.<br>
-             <br>
-          <b>3. Data Warehouse Migration <br></b>
-             Conducting the Migration of OLX Autos  Indonesia data warehouse and visualization from Google Cloud Platform to Amazon Web Services in order to be integrated with OLX Global. Collaborate with data engineer, infrastructure team, and analyst from OLX Group India, Poland, and Berlin to gather user requirements and access.<br>
-             <br>
-          <b>4. Dealer Analysis <br></b>
-             Create the integration between OLX indonesia dealer data and Belimobilgue dealer data and combine the metrics between OLX Indonesia and belimobilgue in visualization, so stakeholders from several division can get the insights and recommendation faster.<br>
-             <br>
-          <b>5. Lead Prioritization <br></b>
-             Create an optimization with machine learning to get more leads based on user willingness. The model was able to get 65% of the total booking by only contacting 50% of the leads.<br>
-             <br>
-          <b>6. Object Character Recognition for Fraud Prevention <br></b>
-             Create a new channel to detect fraudsters with OCR tools. Previously the fraud team do some manual ways to catch this kind of user, with help from the OCR tools we can catch the fraudster faster and reduce the time process by 200%.<br>"
+  info: "&#9679; Integrating many data sources (API,scraper,etc) using python to create data warehouse and using tableau for visualizations, making it easier to get an accurate and fast report. <br>
+        &#9679; Built 6 Core tableau dashboard contains northstar metrics and presented to C level management. <br>
+        &#9679; Collaborated with global team to create scrapper for competitors and built tableau dashboard for visualize it. <br> 
+        &#9679; Led a project to migrate all the data warehouses, ETL's, reports, dashboards, and automations from Google Cloud Platform to Amazon Web Services, it help's to cut the billing.<br>
+        &#9679; Constructed dealer customer analysis reporting in tableau to help operation, sales team to engage customer dealer <br>
+        &#9679; Develop algorithms to optimize the leads to bookings based on user willingness. The algorithms was able to get 65% of the total booking by only contacting 50% of the leads. <br>
+        &#9679; Built an OCR tools to help detect fraudsters. Previously the fraud team do some manual ways to catch this kind of user, with help from the OCR tools we can catch the fraudster faster and reduce the time process by 200%. <br>
+        &#9679; Stacks : Python, R , GCP, AWS, Tableau, Google Sheets, Airflow,Jenkins, BigQuery, Git <br>"
