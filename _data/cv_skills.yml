@@ -4,8 +4,11 @@
 - name: Machine Learning
   level: 80
 
-- name: SQL (Tableau, GDS, Power BI)
+- name: SQL (BigQuery,PostgreSql, etc.)
   level: 95
+
+- name: Data Visualizations (Tableau, GDS, etc)
+  level: 90
 
 - name: Automation Tool (Jenkins, Airflow, etc)
   level: 90
