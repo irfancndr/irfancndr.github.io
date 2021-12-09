@@ -1,12 +1,11 @@
 - title: Data Scientist
   time: Jan 2018 - Dec 2019
   company: PT. Cybertrend Intrabuana
-  info: '
-        &#8594; Applying data science to solve business problems. <br>
+  info: &#8594; Applying data science to solve business problems. <br>
         &#8594; Provide end to end solution for give the best machine learning approach. <br>
         &#8594; Handling POC (Proof of Concept) for Data Science Projects. <br>
-        &#8594; Stacks :  Python, R , Tableau, SPSS Modeler, Pentaho, Linux, Airflow, SQL , GCP. <br>
-        &#8594; Projects : <br>
+        &#8594; Stacks ':'  Python, R , Tableau, SPSS Modeler, Pentaho, Linux, Airflow, SQL , GCP. <br>
+        &#8594; Projects ':' <br>
           1. Big Data Satu Pama (Hauling Optimizer) - Pama Persada <br>
              Joint development to create and improve the various machine learning models for 6 use-cases to solve business problems. This project passed the Minimum Valuable Products criteria. This is an end-to-end project using the CRISP-DM. This project proved to improve  5% of hauling performance. <br>
           2. Bimasakti (Forecasting Products SKU's) - Unilever Indonesia <br>
@@ -14,36 +13,34 @@
           3. KPI Dashboard - Bank BTN <br>
              Build a core metrics dashboard for all KPI in Bank BTN with tableau, this dashboard help stakeholders to get the report fast and accurate. <br>
           4. KPI Dashboard - Angkasa Pura 1 <br>
-             Build a core metrics dashboard for all KPI in Angkasa Pura 1 with tableau, this dashboard help stakeholders to get the report fast and accurate. <br>'
+             Build a core metrics dashboard for all KPI in Angkasa Pura 1 with tableau, this dashboard help stakeholders to get the report fast and accurate. <br>
           
 - title: Data Scientist
   time: Dec 2019 - Jun 2020
   company: BeliMobilGue.co.id
-  info: '
-        &#8594; Applying data science to solve business problems. <br>
+  info: &#8594; Applying data science to solve business problems. <br>
         &#8594; Worked on End to End data creation and maintenance. <br>
         &#8594; Designed, developed, and maintained BI data warehousing and visualization. <br>
         &#8594; Perform ad hoc analysis. <br>
         &#8594; Conducted automation reports and maintained functional dashboards. <br>
-        &#8594; Stacks : Python, R , GCP, Tableau, Power BI, Google Sheets, Airflow, BigQuery, Git <br>
-        &#8594; Projects : <br>
+        &#8594; Stacks ':' Python, R , GCP, Tableau, Power BI, Google Sheets, Airflow, BigQuery, Git <br>
+        &#8594; Projects ':' <br>
           1. KPI Dashboard <br>
              Since the company is growing, i am responsible for moving all reports from Google Sheets and Google Data Studio into the proper data warehousing and Tableau dashboard for visualizations. Creating Dashboard with charts that are easy for understand. <br>
           2. Car Pricing  <br>
-             Work together with other data scientist to create a new system for our car pricing, we creating the new formula for pricing using exponential approach. <br>'
+             Work together with other data scientist to create a new system for our car pricing, we creating the new formula for pricing using exponential approach. <br>
           
 
 - title: Data Scientist
   time: Jul2020 - Present
   company: OLX Indonesia
-  info: '
-        &#8594; Applying data science to solve business problems.  <br>
+  info: &#8594; Applying data science to solve business problems.  <br>
         &#8594; Worked on End to End data creation and maintenance <br>
         &#8594; Designed, developed, and maintained BI data warehousing and visualization. <br> 
         &#8594; Perform ad hoc analysis. <br>
         &#8594; Conducted automation reports and maintained functional dashboards. <br>
-        &#8594; Stacks : Python, R , GCP, AWS, Redshift, Tableau, Power BI, Google Sheets, Airflow, Jenkins, BigQuery, PostgreSQL, Git <br>
-        &#8594; Projects :
+        &#8594; Stacks ':' Python, R , GCP, AWS, Redshift, Tableau, Power BI, Google Sheets, Airflow, Jenkins, BigQuery, PostgreSQL, Git <br>
+        &#8594; Projects ':'
           1. Ctx KPI Dashboard
              I'm responsible to create the 6 Main Dashboard used by CEO and other stakeholders. Integrating many data sources using ETL to create data warehouse and be used in Tableau, making it easier to get an accurate and fast report.
           2. Competitor Analysis
@@ -55,4 +52,4 @@
           5. Lead Prioritization
              I created an optimization with machine learning to get more leads based on user willingness. The model was able to get 65% of the total booking by only contacting 50% of the leads.
           6. Object Character Recognition for Fraud Prevention
-             I created a new channel to detect fraudsters with OCR tools. Previously the fraud team do some manual ways to catch this kind of user, with help from the OCR tools we can catch the fraudster faster and reduce the time process by 200%.''
+             I created a new channel to detect fraudsters with OCR tools. Previously the fraud team do some manual ways to catch this kind of user, with help from the OCR tools we can catch the fraudster faster and reduce the time process by 200%.
