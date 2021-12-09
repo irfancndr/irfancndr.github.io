@@ -34,5 +34,5 @@
         &#9679; Led a project to migrate all the data warehouses, ETL's, reports, dashboards, and automations from Google Cloud Platform to Amazon Web Services, it help's to cut the billing.<br>
         &#9679; Constructed dealer customer analysis reporting in tableau to help operation, sales team to engage customer dealer <br>
         &#9679; Develop algorithms to optimize the leads to bookings based on user willingness. The algorithms was able to get 65% of the total booking by only contacting 50% of the leads. <br>
-        &#9679; Built an OCR tools to help detect fraudsters. Previously the fraud team do some manual ways to catch this kind of user, with help from the OCR tools we can catch the fraudster faster and reduce the time process by 200%. <br>
+        &#9679; Built an OCR tools to help detect fraudsters. Previously the fraud team use manual ways to catch this kind of fraudsters, with help from the OCR tools we can catch the fraudster faster and reduce the time process by 200%. <br>
         &#9679; Stacks : Python, R , GCP, AWS, Tableau, Google Sheets, Airflow,Jenkins, BigQuery, Git <br>"
